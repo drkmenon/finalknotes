@@ -15,4 +15,4 @@ Published Online December 2, 2021 https://doi.org/10.1016/ S0140-6736(21)02717-3
 
 ## Added value of this study
 
-The first randomised trial of third dose booster vaccines given 10–12 weeks after an initial course of Oxford– AstraZeneca or Pfizer–BioNtech COVID-19 immunisation. This trial has demonstrated the potential of all vaccines tested (Pfizer–BioNtech, Oxford– AstraZeneca, Moderna,Novavax, Janssen, CureVac and Valneva) to boost immunity after an initial course of Oxford– AstraZeneca or Pfizer–BioNtech. All vaccines showed acceptable side-efect profiles.
+The first randomised trial of third dose booster vaccines given 10–12 weeks after an initial course of Oxford– AstraZeneca or Pfizer–BioNtech COVID-19 immunisation. This trial has demonstrated the potential of all vaccines tested (Pfizer–BioNtech, Oxford– AstraZeneca, Moderna,Novavax, Janssen, CureVac and Valneva) to boost immunity after an initial course of Oxford– AstraZeneca or Pfizer–BioNtech. All vaccines showed acceptable side-effect profiles.
