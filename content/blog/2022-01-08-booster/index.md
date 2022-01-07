@@ -1,7 +1,7 @@
 ---
 title: COVID19 booster, what is the evidence?
 author: Kishore Puthezhath
-date: '2022-01-08'
+date: '2022-01-07'
 slug: booster
 categories:
   - Personal Experience
