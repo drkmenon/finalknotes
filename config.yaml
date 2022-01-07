@@ -31,6 +31,10 @@ menu:
           name: search
           url: /search/
           weight: 70
+        - identifier: blog
+          name: blog
+          url: /blog/
+          weight: 30
         - identifier: docs
           name: orthopaedics
           url: /docs/
