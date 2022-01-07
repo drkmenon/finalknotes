@@ -7,6 +7,10 @@ params:
     homeInfoParams:
         Title: Hi there wave
         Content: Can be Info, links, about...
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    author: ["Kishore Puthezhath"]
+    
 outputs:
     home:
         - HTML
