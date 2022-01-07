@@ -54,15 +54,42 @@ Treat it as a measure of strength of evidence. This is not objectively satisfact
 In each experiment, if you need to choose between the Null and the alternative, then there is possibility for two types of errors
 
 False Positive: Choosing the alternative when Null is true
+
 False Negative: Choosing the Null when the alternative is true
 
-**Control the rate at which you commit decision errors of false positive type by applying a strict procedure to each expiriment:**
+>>**Control the rate at which you commit decision errors of false positive type by applying a strict procedure to each experiment:**
+
+**The researcher has to make a decision**. In research, convention is to reject null hypothesis if the test result is outside the 95% mark in the normal curve. The remaining 5% is called `œ`. The boundary is approximately `1.96z`. 
+
+>`œ` is the zone of rejection of null hypothesis and `z` the boundary between the acceptance and rejection zones of  null hypothesis.
+
+If we refer the statistical charts, p value for a `z` score of 1.96 is ≤0.05
+
+### So the decision framework is to
 
  + Compute *p-value*
  + Choose the Null if *p-value* is > α 
  + Choose the alternative if *p-value* is <= α
  + Typically α is set at 0.05
 
+Another important concept is **confidence interval**
+
 ## Confidence Interval
 
 Under repeated sampling in hypothetical world, 95% of confidence intervals constructed the same way will include the true value of the mean difference.
+
+It ranges between a fixed value x and y on either side of zero,i.e., `x-0-y`. 
+
+0-x is the lower confidence limit and 0+y is the upper confidence limit.
+
+### **Confidence limit**
+ This sets the boundary of confidence interval and it is generally taken as 95%.
+
+confidence interval is generally considered as more important than p value because it gives
+
++ Statistical significance
++ Clinical significance
++ Precision
+
+
+
