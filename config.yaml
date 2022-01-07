@@ -5,8 +5,8 @@ title: knotes
 
 params:
     homeInfoParams:
-        Title: Hi there wave
-        Content: Can be Info, links, about...
+        Title: Kishore Puthezhath's official website
+        Content: Include notes on Orthoaedics, research & statistics, medical education and general strifes
     ShowReadingTime: true
     ShowPostNavLinks: true
     author: ["Kishore Puthezhath"]
