@@ -1,12 +1,12 @@
 ---
-title: COVID19 Vaccination experience 
+title: Vaccination experience
 author: Kishore Puthezhath
 date: '2021-01-23'
 slug: []
 categories:
-  - Life
-tags:
   - Personal Experience
+tags:
+  - Life
 ---
 
 I am fortunate enough to receive the COVID19 vaccine on 23/1/21. Here I am sharing a great vaccination experience I had and I will be regularly updating the document, watching for any vaccine related adverse reactions and potential period of immunity. 
