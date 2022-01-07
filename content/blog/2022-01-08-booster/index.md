@@ -9,7 +9,7 @@ tags:
   - General
 ---
 
-Safety and immunogenicity of seven COVID-19 vaccines as a third dose (booster) following two doses of ChAdOx1 nCov-19 or BNT162b2 in the UK (COV-BOOST): a blinded, multicentre, randomised, controlled, phase 2 trial-Lancet 2021; 398: 2258–76
+Safety and immunogenicity of seven COVID-19 vaccines as a third dose (booster) following two doses of ChAdOx1 nCov-19 or BNT162b2 in the UK (COV-BOOST): a blinded, multicentre, randomised, controlled, phase 2 trial-Lancet 2021; 398: 2258–76.
 
 Published Online December 2, 2021 https://doi.org/10.1016/ S0140-6736(21)02717-3
 
