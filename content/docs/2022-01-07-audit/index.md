@@ -7,9 +7,6 @@ categories:
   - Basic Science
 tags:
   - Quality control
-bibliography: mypub.bib
-csl: vancouver.csl
-link-citations: yes
 ---
 
 ## Clinical audit 
