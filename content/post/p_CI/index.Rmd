@@ -1,9 +1,12 @@
 ---
-title: "p-value and CI"
-author: "Kishore Puthezhath"
-date: 2022-01-01T21:13:14-05:00
-categories: ["Statistics"]
-tags: ["basic statistics", "traditional"]
+title: p-value and CI
+author: Kishore Puthezhath
+date: '2022-01-01'
+categories:
+  - Statistics
+tags:
+  - basic statistics
+  - traditional
 ---
 
 Assume that we have a normally distributed population of males and females with a mean height of 168cms and 158cms respectively.
