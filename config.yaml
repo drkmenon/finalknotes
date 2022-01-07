@@ -10,6 +10,18 @@ params:
     ShowReadingTime: true
     ShowPostNavLinks: true
     author: ["Kishore Puthezhath"]
+
+    profileMode:
+        enabled: true
+        title: "kishore Puthezhath's official website" # optional default will be site title
+        subtitle: "
+        **Kishore Puthezhath MS Ortho, D Ortho, FACS (USA), FRCS (Tr & Orth)(Eng)** is a Professor (associate) of Orthopaedics 
+        and Consultant Paediatric Orthopaedic Surgeon at the KUHS. 
+        His research interests include Paediatric deformities,Biostatistics in `r`, 
+        Bayesian statistics and competency-based medical education (CBME). 
+        He leads the Paediatric Orthopaedics Surgery in a tertiary teaching hospital in Kerala."
+        
+        
     
 outputs:
     home:
@@ -43,4 +55,6 @@ menu:
           name: statistics
           url: /post/
           weight: 40
+
+
           
