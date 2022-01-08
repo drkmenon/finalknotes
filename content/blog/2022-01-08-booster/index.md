@@ -31,4 +31,4 @@ Pfizer–BioNtech, Oxford– AstraZeneca, Moderna,Novavax, Janssen, CureVac and 
 
 ## Limitation
 
-+ Immunogenisity against Omicron variant of COVID19 not tested.
++ Immunogenicity against Omicron variant of COVID19 not tested.
