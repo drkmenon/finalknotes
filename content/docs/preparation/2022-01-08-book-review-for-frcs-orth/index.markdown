@@ -101,7 +101,7 @@ Let’s see what does the book tell us about funnel plot.
 
 **After reading this I am more confused than confident**
 
-To know more about funnel plot, [**see here**](https://www.knotes.co.in/funnel-plot/)
+To know more about funnel plot, [**see here**](https://www.knotes.co.in/docs/2022-01-01-funnel-plot/)
 
 ### Adjutants
 
