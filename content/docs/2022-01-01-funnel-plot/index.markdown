@@ -7,6 +7,7 @@ categories:
   - Basic Science
 tags:
   - basic statistics
+maths: yes
 ---
 
 
@@ -21,16 +22,16 @@ Funnel plot and its statistical basis
 
 ![Standard funnel plot](images/funnel2.png)*Figure 1*
 
-Doctor,what do you see here?**
+**Doctor,what do you see here?**
 
 
 This is called a funnel plot which is a simple scatterplot of the treatment effects (RR or OR) estimated from individual studies (horizontal axis) against the precision of the studies represented by standard error (SE).
 
 The vertical dotted line shows the estimated combined RR or OR from the meta-analysis. The diagonal dotted lines show the range in which studies should be ideally distributed  given the size (and thus precision) of each study. Thus larger (big sample size), more precise (smaller standard error) studies should be closely distributed either side of the pooled effect and smaller studies should be distributed more widely giving the classic inverted symmetrical funnel. If the studies are not distributed randomly (due to sampling error) around the combined RR estimate then some other influence is suggested. 
 
-![assymetric funnel](images/funnel3.png)*Figure 2
+![assymetric funnel](images/funnel3.png)*Figure 2*
 
-Now what is this?**
+**Now what is this?**
 
 This funnel plot shows trials scattered asymmetrically around the pooled RR with smaller trials reporting a greater effect than larger ones. 
 
@@ -38,7 +39,7 @@ Two possible explanations are: smaller trials of lower methodological quality te
 
 ![Outliers](images/funnel4.png)*Figure 3*
 
-If so, what is this?**
+**If so, what is this?**
 
 The funnel plot displays the % of observed 30-day mortality rate of operations  on the Y-axis and  the total number of operations on the X-axis.  A practice lying on the line Y=1 has a surgeon performing close to average, whereas a practice lying above Y=1 has a  the total number of operations that is higher than the average.
 
@@ -64,12 +65,12 @@ The **"mode"** is the value that occurs most often. If no variable in the list i
 To understand funnel plot we should also know the statistical concepts of  *variance* , *standard deviation* and *standard error of mean*.
 
 ### Variance
-* **It is the sum of average squared difference of mean**.
+**It is the sum of average squared difference of mean**.
 
 eg:  x~1, x~2, x~3, x~n  are a list of *n* number of values, then  mean, x̄ = (x~n + x~1 )/n. Then the  **Variance**=Σ (x-x̄)^2/ (n-1).
 
 ### Standard deviation
-* It is the measure of standardized dispersion of data from the mean. It is calculated by taking the square root of variance.
+*It is the measure of standardized dispersion of data from the mean. It is calculated by taking the square root of variance.*
 
 Standard deviation  σ = √∑, i.e., standard deviation is the square root of variance. 
 
